@@ -1,0 +1,14 @@
+body {
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    font-size:25px; 
+    background-color:lightgoldenrodyellow; 
+    border-radius:10px;
+    font-family: Courier New;
+}
